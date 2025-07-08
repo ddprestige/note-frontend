@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Easy Notes",
-  description: "we provide latest notes for effortless studies",
+  title: "BCU Notes",
+  description: "we provide latest notes for Bangalore City University (BCU) for syllabus State Education Policy (SEP)",
 };
 
 export default function RootLayout({
