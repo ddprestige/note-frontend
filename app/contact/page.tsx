@@ -41,8 +41,8 @@ export default function ContactPage() {
       <h1 className="text-4xl font-bold text-gray-900 mb-6">Contact Us</h1>
 
       <p className="text-gray-700 mb-8">
-        Are you a teacher interested in contributing notes? We'd love to hear from you.
-        Fill out the form below and we’ll get in touch as soon as possible.
+        Are you a teacher interested in contributing notes? We would love to hear from you.
+        Fill out the form below and we will get in touch as soon as possible.
       </p>
 
       <form onSubmit={handleSubmit} className="space-y-6">

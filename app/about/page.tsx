@@ -39,7 +39,7 @@ export default function AboutPage() {
       <section className="mt-10">
         <h2 className="text-2xl font-semibold text-gray-800 mb-2">Join Us</h2>
         <p className="text-gray-700 leading-relaxed">
-          If you're a teacher or student willing to contribute notes or feedback, we welcome your support. Together, we can build a thriving academic resource for BCU students.
+          If you are a teacher or student willing to contribute notes or feedback, we welcome your support. Together, we can build a thriving academic resource for BCU students.
         </p>
       </section>
     </main>
